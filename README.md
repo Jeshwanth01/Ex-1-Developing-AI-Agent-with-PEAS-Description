@@ -62,11 +62,11 @@ d. Print the car’s current location, obstacle status, and step count (optional
 
 ---
 
-**Step 3: Stop when final destination C is reached**
+**Step 3**: Stop when final destination C is reached
 
 ---
 
-**Step 4: Print total steps taken (optional)**
+**Step 4**: Print total steps taken (optional)
 
 
 ### Program:
