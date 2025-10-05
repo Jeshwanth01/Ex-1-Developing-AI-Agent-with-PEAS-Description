@@ -48,8 +48,6 @@ Set car’s location to **A**
 Set route checkpoints as **A → B → C**
 Set environment obstacle status for each route (True = obstacle, False = clear)
 
----
-
 **Step 2: Repeat until destination C is reached:**
 a. Sense if current route has an obstacle
 b. If current route has an obstacle:
@@ -60,15 +58,11 @@ c. Else:
  – Increase step count by 1
 d. Print the car’s current location, obstacle status, and step count (optional for debugging)
 
----
-
 **Step 3**: Stop when final destination C is reached
-
----
 
 **Step 4**: Print total steps taken (optional)
 
-
+---
 ### Program:
 ```
 class SelfDrivingCarAgent:
