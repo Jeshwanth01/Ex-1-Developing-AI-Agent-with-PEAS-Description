@@ -35,11 +35,8 @@ It’s a framework used to define the task environment for an AI agent clearly.
 5. Personal assistant (like Siri or Alexa)
 ```
 
-### VacuumCleanerAgent
+### SelfDrivingCarAgent
 ### Algorithm:
-Got it 👍 — here’s your **Self-Driving Car Agent** written exactly like your **Vacuum Cleaner steps version**, one clear line per step 👇
-
----
 
 ### 🚗 **Self-Driving Car Agent Steps**
 
